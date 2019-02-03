@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Sun Lamp Power Reduction</name>
+  <author>Gaminguru</author>
+  <url>http://rimworldgame.com</url>
+   <targetVersion>1.0.2059</targetVersion>
+  <description>Reduces the power requirement of the sun lamp from 2900 to 800.</description>
+</ModMetaData>
